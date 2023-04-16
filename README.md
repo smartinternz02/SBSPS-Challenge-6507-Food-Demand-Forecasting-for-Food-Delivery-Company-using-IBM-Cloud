@@ -10,3 +10,11 @@ In this project, many steps have been taken to process the data and evaluate the
 possible.
 The web application made using the flask framework gives the user a convenient and accessible interface to enter input values and get the prediction.
 This project is a very good example of how technology and artificial intelligence can be used to make such a large positive impact.
+
+***********************************************************************************************************************************************************************
+To run the app: download all files in the same folder
+run app.py
+Go to the local host address
+To test the web application: enter details from fulfilment_center_info.csv, add details about the meal category, cuisine. It will predict the number of orders
+
+************************************************************************************************************************************************************************
